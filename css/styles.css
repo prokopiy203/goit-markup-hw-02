@@ -14,6 +14,7 @@ body {
 .nav-header .studio-active:hover,
 .nav-header .studio-active:active {
   color: #404bbf;
+  color: #404bbf;
 }
 
 .nav-header .logo {
@@ -53,6 +54,7 @@ body {
 }
 .address-header a:hover,
 .address-header a:active {
+  color: #404bbf;
   color: #404bbf;
 }
 
@@ -121,7 +123,9 @@ ul {
   color: #2e2f42;
 }
 
-.title-main:hover {
+.title-main:hover,
+.title-main:active {
+  color: #404bbf;
   color: #404bbf;
 }
 
@@ -178,6 +182,8 @@ ul {
   background-color: #404bbf;
 }
 
+.button-service:hover,
 .button-service:active {
+  background-color: #404bbf;
   background-color: #404bbf;
 }
