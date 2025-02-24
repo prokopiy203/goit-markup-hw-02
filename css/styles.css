@@ -12,7 +12,7 @@ body {
   color: #2e2f42;
 }
 .nav-header .studio-active:hover,
-.nav-header .studio-active:active {
+.nav-header .studio-active:focus {
   color: #404bbf;
   color: #404bbf;
 }
@@ -53,7 +53,7 @@ body {
   color: #434455;
 }
 .address-link:hover,
-.address-link:active {
+.address-link:focus {
   color: #404bbf;
   color: #404bbf;
 }
@@ -124,7 +124,7 @@ ul {
 }
 
 .title-main:hover,
-.title-main:active {
+.title-main:focus {
   color: #404bbf;
   color: #404bbf;
 }
@@ -179,6 +179,6 @@ ul {
 }
 
 .button-service:hover,
-.button-service:active {
+.button-service:focus {
   background-color: #404bbf;
 }
