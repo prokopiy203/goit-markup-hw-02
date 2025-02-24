@@ -97,6 +97,21 @@ ul {
   background: #2e2f42;
 }
 
+.content-list-dscr {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.content-list-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
 .content-list p {
   font-size: 16px;
   line-height: 1.5;
@@ -133,7 +148,7 @@ ul {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  text-align: center;
+
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -142,7 +157,7 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
+
   color: #434455;
 }
 
