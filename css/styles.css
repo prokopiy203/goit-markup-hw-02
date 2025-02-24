@@ -45,15 +45,15 @@ body {
   font-style: normal;
 }
 
-.address-header a {
+.address-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address-header a:hover,
-.address-header a:active {
+.address-link:hover,
+.address-link:active {
   color: #404bbf;
   color: #404bbf;
 }
@@ -178,12 +178,7 @@ ul {
   background-color: #4d5ae5;
 }
 
-.button-service:hover {
-  background-color: #404bbf;
-}
-
 .button-service:hover,
 .button-service:active {
-  background-color: #404bbf;
   background-color: #404bbf;
 }
