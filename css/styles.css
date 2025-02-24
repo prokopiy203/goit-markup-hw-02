@@ -125,6 +125,23 @@ ul {
   color: #404bbf;
 }
 
+.team-list h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.team-list p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+
 .team-list li {
   background-color: #ffffff;
 }
@@ -157,7 +174,10 @@ ul {
   background-color: #4d5ae5;
 }
 
-.button-service:hover,
+.button-service:hover {
+  background-color: #404bbf;
+}
+
 .button-service:active {
   background-color: #404bbf;
 }
